@@ -2,7 +2,7 @@
 
 ## Profile
 
-![Yashika's Profile Image]()
+![Yashika's Profile Image](https://user-images.githubusercontent.com/39722898/83765438-cc3cd500-a698-11ea-826c-8a7278d6ac0c.jpg)
 
 * **Name**: Yashika Kalra
 * **Discord Username**: Yashika#4935
