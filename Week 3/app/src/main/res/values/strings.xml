@@ -5,7 +5,7 @@
     <string name="shareTextView">Shares: %1$d</string>
     <string name="descTextView">"Name - Yashika Kalra \nAddress - Block A, ABC, India \nContact - +91 8989898989"</string>
     <string name="todo">TODO</string>
-    <string name="aboutTitle">"YK Calling Card"</string>
+    <string name="aboutTitle">YK Calling Card %1$s</string>
     <string name="aboutMessage">Developed by - Yashika Kalra</string>
 
 </resources>
