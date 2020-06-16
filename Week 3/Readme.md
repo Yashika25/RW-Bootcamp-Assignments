@@ -17,6 +17,9 @@ Mi Note 4
 ### Icon credits 
 [Flaticon](https://www.flaticon.com)
 
+### Image credits
+[Unsplash](https://unsplash.com)
+
 ### Screenshots 
 
 #### Portrait Mode
